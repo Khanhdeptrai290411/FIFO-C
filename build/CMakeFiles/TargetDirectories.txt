@@ -1,0 +1,5 @@
+/home/khanh/Documents/FIFO/build/CMakeFiles/sender.dir
+/home/khanh/Documents/FIFO/build/CMakeFiles/receiver.dir
+/home/khanh/Documents/FIFO/build/CMakeFiles/create_fifo.dir
+/home/khanh/Documents/FIFO/build/CMakeFiles/edit_cache.dir
+/home/khanh/Documents/FIFO/build/CMakeFiles/rebuild_cache.dir
